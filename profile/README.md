@@ -22,7 +22,7 @@ then check every file before you see it.
 | **og-images** | Link previews, a Product Hunt gallery and an X header | Ready, free |
 | **launch-copy** | Product Hunt, X, Threads and r/macapps posts, every number checked against your README | Ready |
 | **launch-video** | A launch film from your real UI, 16:9 and 9:16, with music and sound effects the skill composes itself | Ready |
-| **landing-page** | A one-page site with Open Graph tags and FAQ schema | In progress |
+| **landing-page** | A one-page website from your real captures, in one of five directions, with Open Graph tags and FAQ schema, checked at four widths | Ready |
 
 ### Tested blind
 
