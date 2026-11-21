@@ -21,7 +21,7 @@ then check every file before you see it.
 | **store-screenshots** | App Store screenshots at Apple's sizes: Mac 2880×1800 and 1440×900, iPhone 1206×2622 | Ready |
 | **og-images** | Link previews, a Product Hunt gallery and an X header | Ready, free |
 | **launch-copy** | Product Hunt, X, Threads and r/macapps posts, every number checked against your README | Ready |
-| **launch-video** | A 15 to 30 second promo in 9:16 and 16:9 | In progress |
+| **launch-video** | A launch film from your real UI, 16:9 and 9:16, with music and sound effects the skill composes itself | Ready |
 | **landing-page** | A one-page site with Open Graph tags and FAQ schema | In progress |
 
 ### Tested blind
